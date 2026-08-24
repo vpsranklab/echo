@@ -10,6 +10,10 @@
 
 VPS World：[https://vpsworld.org/](https://vpsworld.org/)
 
+### 热门机场监测
+
+机场监测：[https://jichang.watch](https://jichang.watch/)
+
 ---
 
 [Echo机场](https://1.6888n.cn/#/register?code=rYhpei09)主打老牌稳定、高速专线与长期运营体验，套餐低至 10 元/月起，注册后可试用 1 小时。Echo 采用专线中转架构与优质线路优化，强调低延迟、高带宽和晚高峰稳定性，适合日常科学上网、流媒体观看、AI 工具访问以及多设备使用。
